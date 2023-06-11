@@ -1,6 +1,6 @@
-# Project Name
+LastWall User Registration Demo Application
 
-Brief project description goes here.
+The LastWall User Registration Demo application is a TypeScript and React based user registration system. It is designed to secure user information by applying complex password rules and hashing user passwords at the backend. This document provides a detailed explanation of the application's structure, functionality, and underlying technology.
 
 ## Installation
 

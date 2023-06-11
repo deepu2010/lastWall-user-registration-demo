@@ -1,4 +1,4 @@
-LastWall User Registration Demo Application
+# LastWall User Registration Demo Application
 
 The LastWall User Registration Demo application is a TypeScript and React based user registration system. It is designed to secure user information by applying complex password rules and hashing user passwords at the backend. This document provides a detailed explanation of the application's structure, functionality, and underlying technology.
 
@@ -11,22 +11,22 @@ To get started with the project, follow the steps below:
 ### Client
 
 1. Navigate to the `client` folder:
-### cd client
+### `cd client` 
 
 2. Install dependencies:
-### npm install
+### `npm install`
 
 3. Start the react project
-### npm start
+### `npm start`
 
 1. Navigate to the `server` folder:
-### cd server
+### `cd server`
 
 3. Build the TypeScript files:
-### tsc --esModuleInterop server.ts
+### `tsc --esModuleInterop server.ts`
 
 4. Start the server:
-### node server.js
+### `node server.js`
 
 5. Database setup
 
